@@ -28,7 +28,7 @@
 <project path="vendor/google/cheetah" name="proprietary_vendor_google_cheetah" remote="aospa-cheetah" />
 
 <!-- Google Pixel Hardware -->
-<project path="hardware/google/pixel" name="android_hardware_google_pixel" remote="lineage" />
+<project path="hardware/google/pixel" name="hardware_google_pixel" remote="aospa-cheetah" />
 
 <!-- Google Graphics Common -->
 <project path="hardware/google/graphics/common" name="android_hardware_google_graphics_common" remote="lineage" />
